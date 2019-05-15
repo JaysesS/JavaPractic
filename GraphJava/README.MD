@@ -1,3 +1,5 @@
+Java 8, JavaFX.
+
 Features of the program:
 
 	- Create graph
