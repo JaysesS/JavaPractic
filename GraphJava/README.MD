@@ -1,5 +1,7 @@
 Java 8, JavaFX.
 
+There are problems in implementation, but do not bite c:
+
 Features of the program:
 
 	- Create graph
