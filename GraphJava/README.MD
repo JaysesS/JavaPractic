@@ -15,11 +15,11 @@ Use the library:
 
 	- json simple 1.1
 	
-		link: http://www.java2s.com/Code/JarDownload/json-simple/json-simple-1.1.jar.zip
+		link: <a href="http://www.java2s.com/Code/JarDownload/json-simple/json-simple-1.1.jar.zip">Download</a>
 		
 	- graphstream (gs-algo-1.3, gs-core-1.3, gs-ui-1.3)
 	
-		link: http://graphstream-project.org/download/
+		link: <a href="http://graphstream-project.org/download/">Download</a>
 		
 		
 <a href="https://imageshost.ru/image/at3S6"><img src="https://imageshost.ru/images/2019/05/15/SNIMOK-EKRANA-OT-2019-05-15-22-16-34.png" alt="SNIMOK-EKRANA-OT-2019-05-15-22-16-34.png" border="0"></a>
