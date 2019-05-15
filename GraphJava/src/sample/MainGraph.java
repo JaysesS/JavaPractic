@@ -207,7 +207,7 @@ public class MainGraph {
             if(v == -1)
                 theStack.pop();
             else {
-                vertexArray[v].wasVisited = true; // Пометка
+                vertexArray[v].wasVisited = true;
                 res+= vertexArray[v].label;
                 theStack.push(v);
             }
@@ -223,7 +223,7 @@ public class MainGraph {
 
         String res = "";
 
-        vertexArray[0].wasVisited = true; // Пометка
+        vertexArray[0].wasVisited = true;
         res+= vertexArray[0].label;
         theQueue.insert(0); //exp
         int v2;
