@@ -29,7 +29,7 @@ public class Main extends Application {
     private void initRootLayout() {
         try {
 
-            FXMLLoader loader = new FXMLLoader(); //Создание загрузчика
+            FXMLLoader loader = new FXMLLoader();
 
             loader.setLocation(Controller.class.getResource("form.fxml"));
 
